@@ -19,7 +19,7 @@ prefix=${PREFIX:-/usr}
 
 prepare() {
 	cp -r "$startdir"/animation_log "$srcdir/"
-	cp -r "$startdir"/earch_onlien_log "$srcdir/"
+	cp -r "$startdir"/earch_online_log "$srcdir/"
 	cp -r "$startdir"/game_log "$srcdir/"
 }
 
@@ -35,7 +35,7 @@ package() {
 	install -dm755 "$pkgdir${prefix}/share/logs"
 
 	cp -r "$srcdir"/aniamtion_log "$pkgdir${prefix}/share/logs"
-	cp -r "$srcdir"/earch_onlien_log "$pkgdir${prefix}/share/logs"
+	cp -r "$srcdir"/earch_online_log "$pkgdir${prefix}/share/logs"
 	cp -r "$srcdir"/game_log "$pkgdir${prefix}/share/logs"
 
 	find "$pkgdir${prefix}/share/logs" -type f -exec chmod 666 {} \;
