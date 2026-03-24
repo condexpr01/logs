@@ -2,7 +2,7 @@
 
 
 ### <font color=#39c5bb>MC(Minecraft)</font>
-> <font color=#ff00ff>攻击：3格距离, 滚轮改攻击高cps+wtap</font><br>
+> <font color=#ff00ff>攻击：3格距离</font><br>
 > <font color=#ff00ff>走位：向侧脸的方向走,向低处走(低打高)</font><br>
 > <font color=#ff00ff>搭路：蹲起搭,蹲跳搭,斜搭</font><br><br>
 
@@ -52,19 +52,14 @@
 
 > <font color=#ff00ff>游戏:征服主世界->地狱->末地</font>
 
-<img src="./res/minecraft.jpg" alt="image" width=500px>
-
-
-
-
+<img src="./res/minecraft.jpg" alt="image" width=500px>
 
 
 
 
 
 ### <font color=#39c5bb>TTF2泰坦陨落</font>
-> <font color=#ff00ff>\<钢铁洪流\></font>
-> <font color=#ff00ff>BT7274:协议三：保护铁驭。</font>    
+> <font color=#ff00ff>\<钢铁洪流\></font>
 
 > <font color=#ff00ff>键位可仿MC</font>    
 > <font color=#ff00ff>起源引擎移动：加速蹲跳</font>    
@@ -72,7 +67,75 @@
 
 > <font color=#ff00ff>剧情:干掉apex雇佣兵,夺取圣柜,保护哈莫尼星</font>    
 
+> <font color=#ff00ff>明明答应好拉斯提摩沙要保护好bt的</font>    
+> <font color=#ff00ff>BT7274:协议三：保护铁驭。</font>    
+
 <img src="./res/ttf2.jpg" alt="image" width=500px>
+
+
+
+
+### <font color=#39c5bb>坎公骑冠剑(guarden tales)</font>
+
+```markdown
+# 初
+被突如其来的侵略者攻击，
+骑士参与到保护的行列中，
+但不幸被攻击，但得到了未来公主的救助和引导。
+
+> 按正常情况当前时间线骑士应当死亡，但却得到了未来另一个时间线公主的帮助。失去骑士未来公主来到了这个时间线
+
+之后，遇到了黑暗魔法师（贝丝）的攻击，所有人陷入昏迷，小公主展现出未知的力量，禁锢了贝丝？
+
+> 小公主的力量，也许是特别的存在
+
+禁锢不能持续多久，女皇（卡米拉）带着公主骑士逃跑，但被追上来的贝丝攻击，公主骑士再次陷入昏迷，女皇（卡米拉）下落不明
+
+> 为什么被攻击，贝丝为什么要攻击
+
+# 世界1
+坎特伯雷被侵略者占领了。
+>  支：遇到个拉赫帝国的骑士（夏拉皮）。
+> 支：青叶让给她找漫画书。
+> 支：骑士找到史莱姆霜（所以这就是未来骑士更好看吗？）
+
+罗兰因带领公主骑士到冠军之剑，并试图抢走，
+但在骑士上出现非预期的屏障，并说出一番话表示骑士
+非一般人。之后又带公主骑士上浮游城。
+
+按莉莉女王所说，为应对预言需要激活冠军之剑，
+激活冠军之剑需要得到冠军们的认可
+
+# 世界2
+找到马莉安
+
+# 世界3
+未知机制的水晶招来幽灵，将其破坏后认为结束了，
+但中了艾芭芙的计谋，
+到二楼躲避的人被用来作为艾芭芙复活的祭品，
+但双子的帮助下，成功阻止了
+
+罗拉(在校被人欺负，被凯登教黑魔法，最后在雪山战败)
+
+# 世界4
+雇佣兵马修被匪首领绑架女孩，关到教导所，
+协助马修击败首领，救出女孩
+
+
+# 世界5
+春秋教派首领战斗中，仙山派长老战亡，
+击败首领为长老报仇。(对手力量和水晶有关)
+
+
+# 世界6
+被侵略者叫来的建妖精戏弄
+
+# 世界7
+地牢
+
+# 世界8
+魔女事件
+```
 
 
 ### <font color=#39c5bb>CSGO/CS2</font>
@@ -83,8 +146,7 @@
 
 
 
-### <font color=#39c5bb>饥荒</font>
-> <font color=#ff00ff>\<学第一门脚本lua的开端\></font>    
+### <font color=#39c5bb>饥荒</font>
 > <font color=#ff00ff>查理会想你的...</font>    
 
 <img src="./res/do_not_starve.jpg" alt="image" width=500px>
